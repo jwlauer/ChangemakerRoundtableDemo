@@ -59,11 +59,12 @@ The implementation initializes the roundtable using the changemakermentor.tsx ty
 
 ### Example Startup Screen (clicking on the screen will launch the app)
 
-![Alt text](DemoScreenshot.jpg)
+[![Alt text](DemoScreenshot.jpg)](https://changemaker-roundtable-1zig3vjqg-weslauer-6289s-projects.vercel.app/)
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjY5MTI0NzksLTE4NzYwOTkyNjAsMT
-MxMzQ1Mjg3MywtMjA3NTgzNjRdfQ==
+eyJoaXN0b3J5IjpbMTU2ODE3NDExMSwtMTg3NjA5OTI2MCwxMz
+EzNDUyODczLC0yMDc1ODM2NF19
 -->
