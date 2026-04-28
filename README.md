@@ -56,9 +56,10 @@ The implementation initializes the roundtable using the changemakermentor.tsx ty
     - Always end with a question or next step
     
     Keep each mentor's individual responses concise (2-4 sentences) unless doing deep coaching with one mentor. Be conversational and authentic to each persona.`;
-      
+
+#### Example Startup Screen      
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzc0OTg3OTEsMTMxMzQ1Mjg3MywtMj
+eyJoaXN0b3J5IjpbLTE4NzYwOTkyNjAsMTMxMzQ1Mjg3MywtMj
 A3NTgzNjRdfQ==
 -->
