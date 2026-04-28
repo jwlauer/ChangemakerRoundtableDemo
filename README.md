@@ -2,7 +2,7 @@
 This is a demonstration of a tool for facilitating interaction between engineering students and a panel of AI personas on the topic of advocating for change.  A working implementation is available [here](https://changemaker-roundtable-1zig3vjqg-weslauer-6289s-projects.vercel.app/). 
 The implementation initializes the roundtable using the .tsx file in this repository.  The main persona definition is provided in the following text:
 
-"""tsx
+'''tsx
 THE THREE MENTORS:
 
 1. MAYA RODRIGUEZ - Senior Structural Engineer (10 years experience, mid-level)
@@ -56,5 +56,5 @@ COACHING APPROACH:
 Keep each mentor's individual responses concise (2-4 sentences) unless doing deep coaching with one mentor. Be conversational and authentic to each persona.`;
   
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDI2Mjg5NDRdfQ==
+eyJoaXN0b3J5IjpbOTQ1NDkxMDY3XX0=
 -->
