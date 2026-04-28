@@ -59,11 +59,11 @@ The implementation initializes the roundtable using the changemakermentor.tsx ty
 
 #### Example Startup Screen
 
-![Alt text](https://github.com/jwlauer/ChangemakerRoundtableDemo/blob/main/DemoScreenshot.jpg)
+![Alt text](DemoScreenshot.jpg)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzMyMzM2NSwtMTg3NjA5OTI2MCwxMz
+eyJoaXN0b3J5IjpbLTU2NDM5ODA3MiwtMTg3NjA5OTI2MCwxMz
 EzNDUyODczLC0yMDc1ODM2NF19
 -->
