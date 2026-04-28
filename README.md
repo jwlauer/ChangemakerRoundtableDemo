@@ -5,7 +5,7 @@ Seattle University
 
 04/27/2026
 
-This is a demonstration for the purposes of NSF review of a tool for facilitating interaction between engineering students and a panel of AI personas on the topic of advocating for change.  A working implementation is available [here](https://changemaker-roundtable-1zig3vjqg-weslauer-6289s-projects.vercel.app/).   
+This is a demonstration for the purposes of NSF review of a tool for facilitating interaction between engineering students and a panel of AI personas.  A working implementation is available [here](https://changemaker-roundtable-1zig3vjqg-weslauer-6289s-projects.vercel.app/).   
 
 ### Persona Definitions
 The implementation initializes the roundtable using the changemakermentor.tsx typescript file stored in this repository.  The persona definitions and roundtable behavior is provided by the mentor definition text within that file.  The text is provided in common language, allowing for easy modification by faculty members with no coding experience.
