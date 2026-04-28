@@ -1,7 +1,7 @@
 # ChangemakerRoundtableDemo
 This is a demonstration of a tool for facilitating interaction between engineering students and a panel of AI personas on the topic of advocating for change.  A working implementation is available [here](https://changemaker-roundtable-1zig3vjqg-weslauer-6289s-projects.vercel.app/).   
 
-#### Persona Definitions
+### Persona Definitions
 The implementation initializes the roundtable using the changemakermentor.tsx typescript file stored in this repository.  The persona definitions and roundtable behavior is provided by the mentor definition text the following text within that file.  The text is provided in common language, allow for easy modification by faculty members with no coding experience.
 
 
@@ -57,13 +57,13 @@ The implementation initializes the roundtable using the changemakermentor.tsx ty
     
     Keep each mentor's individual responses concise (2-4 sentences) unless doing deep coaching with one mentor. Be conversational and authentic to each persona.`;
 
-#### Example Startup Screen
+### Example Startup Screen
 
 ![Alt text](DemoScreenshot.jpg)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NDM5ODA3MiwtMTg3NjA5OTI2MCwxMz
-EzNDUyODczLC0yMDc1ODM2NF19
+eyJoaXN0b3J5IjpbLTEwODg1NjM1NjQsLTE4NzYwOTkyNjAsMT
+MxMzQ1Mjg3MywtMjA3NTgzNjRdfQ==
 -->
